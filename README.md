@@ -1,5 +1,5 @@
 # goodreadsownedbooks
-A side project done to find list of friends on goodreads who own a particular book
+Find list of friends who already own that book you want to read
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## General Instructions
